@@ -1,0 +1,16 @@
+{
+"companyName": "sssmabsss",
+"productName": "DuckDuckShoot",
+"productVersion": "0.1",
+"dataUrl": "duck duck.data.unityweb",
+"wasmCodeUrl": "duck duck.wasm.code.unityweb",
+"wasmFrameworkUrl": "duck duck.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.8f1"
+}
